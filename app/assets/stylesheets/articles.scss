@@ -1,0 +1,42 @@
+// Place all the styles related to the Articles controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+#container {
+
+
+}
+
+#navbar {
+  display: flex;
+  justify-content: space-between;
+  // height: 40px;
+  background-color: #f8f8f8;
+  border-color: #e7e7e7;
+  border-width: 1px;
+  border-style: solid;
+  padding: 15px;
+}
+
+#header-left {
+  color: #777;
+  padding: 0px;
+}
+
+#wiki-logo {
+  margin: 0px;
+  font-size: 18px;
+  line-height: 20px;
+}
+#new-article {
+  margin: 0px;
+  color: #777;
+  font-size: 14px;
+  line-height: 20px;
+  margin-right: 20px;
+}
+
+body {
+  padding: 0px;
+  margin: 0px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
